@@ -1,0 +1,9067 @@
+[
+  {
+    "country_code": "AD",
+    "country": "Andorra",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "AE",
+    "country": "United Arab Emirates",
+    "currency": "AED",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 29,
+        "price_usd": 7.9
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 39,
+        "price_usd": 10.62
+      },
+      {
+        "plan": "premium",
+        "price": 56,
+        "price_usd": 15.25
+      }
+    ]
+  },
+  {
+    "country_code": "AF",
+    "country": "Afghanistan",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "AG",
+    "country": "Antigua & Barbuda",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "AI",
+    "country": "Anguilla",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "AL",
+    "country": "Albania",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "AM",
+    "country": "Armenia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "AO",
+    "country": "Angola",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "AR",
+    "country": "Argentina",
+    "currency": "ARS",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 699,
+        "price_usd": 3.77
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 1299,
+        "price_usd": 7.01
+      },
+      {
+        "plan": "premium",
+        "price": 1899,
+        "price_usd": 10.25
+      }
+    ]
+  },
+  {
+    "country_code": "AS",
+    "country": "American Samoa",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "AT",
+    "country": "Austria",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "AU",
+    "country": "Australia",
+    "currency": "AUD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 10.99,
+        "price_usd": 7.82
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 16.99,
+        "price_usd": 12.09
+      },
+      {
+        "plan": "premium",
+        "price": 22.99,
+        "price_usd": 16.35
+      }
+    ]
+  },
+  {
+    "country_code": "AW",
+    "country": "Aruba",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "AX",
+    "country": "\u00c5land Islands",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 13.06
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "AZ",
+    "country": "Azerbaijan",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "BA",
+    "country": "Bosnia & Herzegovina",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "BB",
+    "country": "Barbados",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 10.59,
+        "price_usd": 10.59
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.29,
+        "price_usd": 15.29
+      },
+      {
+        "plan": "premium",
+        "price": 18.79,
+        "price_usd": 18.79
+      }
+    ]
+  },
+  {
+    "country_code": "BD",
+    "country": "Bangladesh",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BE",
+    "country": "Belgium",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 13.49,
+        "price_usd": 14.7
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "BF",
+    "country": "Burkina Faso",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BG",
+    "country": "Bulgaria",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "BH",
+    "country": "Bahrain",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.49,
+        "price_usd": 10.49
+      },
+      {
+        "plan": "premium",
+        "price": 15.79,
+        "price_usd": 15.79
+      }
+    ]
+  },
+  {
+    "country_code": "BI",
+    "country": "Burundi",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BJ",
+    "country": "Benin",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BL",
+    "country": "St. Barth\u00e9lemy",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BM",
+    "country": "Bermuda",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "BN",
+    "country": "Brunei",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 11.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "BO",
+    "country": "Bolivia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "BQ",
+    "country": "Caribbean Netherlands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "BR",
+    "country": "Brazil",
+    "currency": "BRL",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 25.9,
+        "price_usd": 5.11
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 39.9,
+        "price_usd": 7.88
+      },
+      {
+        "plan": "premium",
+        "price": 55.9,
+        "price_usd": 11.03
+      }
+    ]
+  },
+  {
+    "country_code": "BS",
+    "country": "Bahamas",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "BT",
+    "country": "Bhutan",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BV",
+    "country": "Bouvet Island",
+    "currency": "NOK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 89,
+        "price_usd": 9.03
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 109,
+        "price_usd": 11.05
+      },
+      {
+        "plan": "premium",
+        "price": 159,
+        "price_usd": 16.12
+      }
+    ]
+  },
+  {
+    "country_code": "BW",
+    "country": "Botswana",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "BY",
+    "country": "Belarus",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "BZ",
+    "country": "Belize",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "CA",
+    "country": "Canada",
+    "currency": "CAD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 7.5
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 16.49,
+        "price_usd": 12.38
+      },
+      {
+        "plan": "premium",
+        "price": 20.99,
+        "price_usd": 15.76
+      }
+    ]
+  },
+  {
+    "country_code": "CC",
+    "country": "Cocos (Keeling) Islands",
+    "currency": "AUD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 10.99,
+        "price_usd": 7.82
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 16.99,
+        "price_usd": 12.09
+      },
+      {
+        "plan": "premium",
+        "price": 22.99,
+        "price_usd": 16.35
+      }
+    ]
+  },
+  {
+    "country_code": "CD",
+    "country": "Congo - Kinshasa",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CF",
+    "country": "Central African Republic",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CG",
+    "country": "Congo - Brazzaville",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CH",
+    "country": "Switzerland",
+    "currency": "CHF",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 11.9,
+        "price_usd": 12.93
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 18.9,
+        "price_usd": 20.54
+      },
+      {
+        "plan": "premium",
+        "price": 24.9,
+        "price_usd": 27.06
+      }
+    ]
+  },
+  {
+    "country_code": "CI",
+    "country": "C\u00f4te d\u2019Ivoire",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CK",
+    "country": "Cook Islands",
+    "currency": "NZD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 12.99,
+        "price_usd": 8.43
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 18.49,
+        "price_usd": 12.0
+      },
+      {
+        "plan": "premium",
+        "price": 24.99,
+        "price_usd": 16.22
+      }
+    ]
+  },
+  {
+    "country_code": "CL",
+    "country": "Chile",
+    "currency": "CLP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 5940,
+        "price_usd": 7.4
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 8320,
+        "price_usd": 10.37
+      },
+      {
+        "plan": "premium",
+        "price": 10700,
+        "price_usd": 13.34
+      }
+    ]
+  },
+  {
+    "country_code": "CM",
+    "country": "Cameroon",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CO",
+    "country": "Colombia",
+    "currency": "COP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 16900,
+        "price_usd": 3.74
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 26900,
+        "price_usd": 5.95
+      },
+      {
+        "plan": "premium",
+        "price": 38900,
+        "price_usd": 8.6
+      }
+    ]
+  },
+  {
+    "country_code": "CR",
+    "country": "Costa Rica",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "CU",
+    "country": "Cuba",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "CV",
+    "country": "Cape Verde",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CW",
+    "country": "Cura\u00e7ao",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "CX",
+    "country": "Christmas Island",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "CY",
+    "country": "Cyprus",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 11.97
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 15.24
+      }
+    ]
+  },
+  {
+    "country_code": "CZ",
+    "country": "Czechia",
+    "currency": "CZK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 199,
+        "price_usd": 9.1
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 259,
+        "price_usd": 11.85
+      },
+      {
+        "plan": "premium",
+        "price": 319,
+        "price_usd": 14.59
+      }
+    ]
+  },
+  {
+    "country_code": "DE",
+    "country": "Germany",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "DJ",
+    "country": "Djibouti",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "DK",
+    "country": "Denmark",
+    "currency": "DKK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 79,
+        "price_usd": 11.57
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 114,
+        "price_usd": 16.7
+      },
+      {
+        "plan": "premium",
+        "price": 149,
+        "price_usd": 21.82
+      }
+    ]
+  },
+  {
+    "country_code": "DM",
+    "country": "Dominica",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "DO",
+    "country": "Dominican Republic",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "DZ",
+    "country": "Algeria",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "EC",
+    "country": "Ecuador",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "EE",
+    "country": "Estonia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "EG",
+    "country": "Egypt",
+    "currency": "EGP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 120,
+        "price_usd": 4.01
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 165,
+        "price_usd": 5.52
+      },
+      {
+        "plan": "premium",
+        "price": 200,
+        "price_usd": 6.69
+      }
+    ]
+  },
+  {
+    "country_code": "EH",
+    "country": "Western Sahara",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "ER",
+    "country": "Eritrea",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "ES",
+    "country": "Spain",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "ET",
+    "country": "Ethiopia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "FI",
+    "country": "Finland",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 13.06
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "FJ",
+    "country": "Fiji",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "FK",
+    "country": "Falkland Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "FM",
+    "country": "Micronesia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "FO",
+    "country": "Faroe Islands",
+    "currency": "DKK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 79,
+        "price_usd": 11.57
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 114,
+        "price_usd": 16.7
+      },
+      {
+        "plan": "premium",
+        "price": 149,
+        "price_usd": 21.82
+      }
+    ]
+  },
+  {
+    "country_code": "FR",
+    "country": "France",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 13.49,
+        "price_usd": 14.7
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "GA",
+    "country": "Gabon",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 6.99,
+        "price_usd": 8.68
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 13.64
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 19.85
+      }
+    ]
+  },
+  {
+    "country_code": "GD",
+    "country": "Grenada",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "GE",
+    "country": "Georgia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.39,
+        "price_usd": 10.23
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.79,
+        "price_usd": 12.84
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 15.24
+      }
+    ]
+  },
+  {
+    "country_code": "GF",
+    "country": "French Guiana",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.49,
+        "price_usd": 13.61
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "GG",
+    "country": "Guernsey",
+    "currency": "GBP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 6.99,
+        "price_usd": 8.68
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 13.64
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 19.85
+      }
+    ]
+  },
+  {
+    "country_code": "GH",
+    "country": "Ghana",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GI",
+    "country": "Gibraltar",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "GL",
+    "country": "Greenland",
+    "currency": "DKK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 79,
+        "price_usd": 11.57
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 114,
+        "price_usd": 16.7
+      },
+      {
+        "plan": "premium",
+        "price": 149,
+        "price_usd": 21.82
+      }
+    ]
+  },
+  {
+    "country_code": "GM",
+    "country": "Gambia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GN",
+    "country": "Guinea",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GP",
+    "country": "Guadeloupe",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.49,
+        "price_usd": 13.61
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "GQ",
+    "country": "Equatorial Guinea",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GR",
+    "country": "Greece",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 11.97
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 15.24
+      }
+    ]
+  },
+  {
+    "country_code": "GS",
+    "country": "South Georgia & South Sandwich Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GT",
+    "country": "Guatemala",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "GU",
+    "country": "Guam",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "GW",
+    "country": "Guinea-Bissau",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "GY",
+    "country": "Guyana",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "HK",
+    "country": "Hong Kong",
+    "currency": "HKD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 63,
+        "price_usd": 8.05
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 78,
+        "price_usd": 9.96
+      },
+      {
+        "plan": "premium",
+        "price": 93,
+        "price_usd": 11.88
+      }
+    ]
+  },
+  {
+    "country_code": "HM",
+    "country": "Heard & McDonald Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "HN",
+    "country": "Honduras",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "HR",
+    "country": "Croatia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "HT",
+    "country": "Haiti",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "HU",
+    "country": "Hungary",
+    "currency": "HUF",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 2490,
+        "price_usd": 6.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 3490,
+        "price_usd": 9.8
+      },
+      {
+        "plan": "premium",
+        "price": 4490,
+        "price_usd": 12.61
+      }
+    ]
+  },
+  {
+    "country_code": "ID",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 120000,
+        "price_usd": 8.02
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 153000,
+        "price_usd": 10.23
+      },
+      {
+        "plan": "premium",
+        "price": 186000,
+        "price_usd": 12.44
+      }
+    ]
+  },
+  {
+    "country_code": "IE",
+    "country": "Ireland",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 14.99,
+        "price_usd": 16.33
+      },
+      {
+        "plan": "premium",
+        "price": 20.99,
+        "price_usd": 22.87
+      }
+    ]
+  },
+  {
+    "country_code": "IL",
+    "country": "Israel",
+    "currency": "ILS",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 32.9,
+        "price_usd": 9.63
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 54.9,
+        "price_usd": 16.07
+      },
+      {
+        "plan": "premium",
+        "price": 69.9,
+        "price_usd": 20.46
+      }
+    ]
+  },
+  {
+    "country_code": "IM",
+    "country": "Isle of Man",
+    "currency": "GBP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 6.99,
+        "price_usd": 8.68
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 13.64
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 19.85
+      }
+    ]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "currency": "INR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 199,
+        "price_usd": 2.44
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 499,
+        "price_usd": 6.13
+      },
+      {
+        "plan": "premium",
+        "price": 649,
+        "price_usd": 7.97
+      }
+    ]
+  },
+  {
+    "country_code": "IO",
+    "country": "British Indian Ocean Territory",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "IQ",
+    "country": "Iraq",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "IR",
+    "country": "Iran",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "IS",
+    "country": "Iceland",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "IT",
+    "country": "Italy",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "JE",
+    "country": "Jersey",
+    "currency": "GBP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 6.99,
+        "price_usd": 8.68
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 13.64
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 19.85
+      }
+    ]
+  },
+  {
+    "country_code": "JM",
+    "country": "Jamaica",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "JO",
+    "country": "Jordan",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "JP",
+    "country": "Japan",
+    "currency": "JPY",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 990,
+        "price_usd": 7.63
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 1490,
+        "price_usd": 11.48
+      },
+      {
+        "plan": "premium",
+        "price": 1980,
+        "price_usd": 15.25
+      }
+    ]
+  },
+  {
+    "country_code": "KE",
+    "country": "Kenya",
+    "currency": "KES",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 700,
+        "price_usd": 5.63
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 1100,
+        "price_usd": 8.85
+      },
+      {
+        "plan": "premium",
+        "price": 1450,
+        "price_usd": 11.66
+      }
+    ]
+  },
+  {
+    "country_code": "KG",
+    "country": "Kyrgyzstan",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "KH",
+    "country": "Cambodia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "KI",
+    "country": "Kiribati",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "KM",
+    "country": "Comoros",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "KN",
+    "country": "St. Kitts & Nevis",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "KR",
+    "country": "South Korea",
+    "currency": "KRW",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9500,
+        "price_usd": 7.71
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 13500,
+        "price_usd": 10.96
+      },
+      {
+        "plan": "premium",
+        "price": 17000,
+        "price_usd": 13.8
+      }
+    ]
+  },
+  {
+    "country_code": "KW",
+    "country": "Kuwait",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 14.99,
+        "price_usd": 14.99
+      }
+    ]
+  },
+  {
+    "country_code": "KY",
+    "country": "Cayman Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "LA",
+    "country": "Laos",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "LB",
+    "country": "Lebanon",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "LC",
+    "country": "St. Lucia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "LI",
+    "country": "Liechtenstein",
+    "currency": "CHF",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 11.9,
+        "price_usd": 12.93
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 18.9,
+        "price_usd": 20.54
+      },
+      {
+        "plan": "premium",
+        "price": 24.9,
+        "price_usd": 27.06
+      }
+    ]
+  },
+  {
+    "country_code": "LK",
+    "country": "Sri Lanka",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "LR",
+    "country": "Liberia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "LS",
+    "country": "Lesotho",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "LT",
+    "country": "Lithuania",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "LU",
+    "country": "Luxembourg",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 13.49,
+        "price_usd": 14.7
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "LV",
+    "country": "Latvia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "LY",
+    "country": "Libya",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MA",
+    "country": "Morocco",
+    "currency": "MAD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 65,
+        "price_usd": 6.41
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 95,
+        "price_usd": 9.36
+      },
+      {
+        "plan": "premium",
+        "price": 125,
+        "price_usd": 12.32
+      }
+    ]
+  },
+  {
+    "country_code": "MC",
+    "country": "Monaco",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 13.49,
+        "price_usd": 14.7
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "MD",
+    "country": "Moldova",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "ME",
+    "country": "Montenegro",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "MF",
+    "country": "St. Martin",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MG",
+    "country": "Madagascar",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MH",
+    "country": "Marshall Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "MK",
+    "country": "North Macedonia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "ML",
+    "country": "Mali",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MM",
+    "country": "Myanmar (Burma)",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MN",
+    "country": "Mongolia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MO",
+    "country": "Macau",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MP",
+    "country": "Northern Mariana Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "MQ",
+    "country": "Martinique",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.49,
+        "price_usd": 13.61
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "MR",
+    "country": "Mauritania",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MS",
+    "country": "Montserrat",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "MT",
+    "country": "Malta",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "MU",
+    "country": "Mauritius",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MV",
+    "country": "Maldives",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 11.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "MW",
+    "country": "Malawi",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "MX",
+    "country": "Mexico",
+    "currency": "MXN",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 139,
+        "price_usd": 7.39
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 219,
+        "price_usd": 11.65
+      },
+      {
+        "plan": "premium",
+        "price": 299,
+        "price_usd": 15.9
+      }
+    ]
+  },
+  {
+    "country_code": "MY",
+    "country": "Malaysia",
+    "currency": "MYR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 35,
+        "price_usd": 8.24
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 45,
+        "price_usd": 10.6
+      },
+      {
+        "plan": "premium",
+        "price": 55,
+        "price_usd": 12.95
+      }
+    ]
+  },
+  {
+    "country_code": "MZ",
+    "country": "Mozambique",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "NA",
+    "country": "Namibia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "NC",
+    "country": "New Caledonia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 11.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "NE",
+    "country": "Niger",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "NF",
+    "country": "Norfolk Island",
+    "currency": "AUD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 10.99,
+        "price_usd": 7.82
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 16.99,
+        "price_usd": 12.09
+      },
+      {
+        "plan": "premium",
+        "price": 22.99,
+        "price_usd": 16.35
+      }
+    ]
+  },
+  {
+    "country_code": "NG",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 2900,
+        "price_usd": 6.3
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 3600,
+        "price_usd": 7.82
+      },
+      {
+        "plan": "premium",
+        "price": 4400,
+        "price_usd": 9.56
+      }
+    ]
+  },
+  {
+    "country_code": "NI",
+    "country": "Nicaragua",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "NL",
+    "country": "Netherlands",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 13.06
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "NO",
+    "country": "Norway",
+    "currency": "NOK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 89,
+        "price_usd": 9.03
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 109,
+        "price_usd": 11.05
+      },
+      {
+        "plan": "premium",
+        "price": 159,
+        "price_usd": 16.12
+      }
+    ]
+  },
+  {
+    "country_code": "NP",
+    "country": "Nepal",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "NR",
+    "country": "Nauru",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 11.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "NU",
+    "country": "Niue",
+    "currency": "NZD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 12.99,
+        "price_usd": 8.43
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 18.49,
+        "price_usd": 12.0
+      },
+      {
+        "plan": "premium",
+        "price": 24.99,
+        "price_usd": 16.22
+      }
+    ]
+  },
+  {
+    "country_code": "NZ",
+    "country": "New Zealand",
+    "currency": "NZD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 12.99,
+        "price_usd": 8.43
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 18.49,
+        "price_usd": 12.0
+      },
+      {
+        "plan": "premium",
+        "price": 24.99,
+        "price_usd": 16.22
+      }
+    ]
+  },
+  {
+    "country_code": "OM",
+    "country": "Oman",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.39,
+        "price_usd": 8.39
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.49,
+        "price_usd": 10.49
+      },
+      {
+        "plan": "premium",
+        "price": 15.79,
+        "price_usd": 15.79
+      }
+    ]
+  },
+  {
+    "country_code": "PA",
+    "country": "Panama",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "PE",
+    "country": "Peru",
+    "currency": "PEN",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 24.9,
+        "price_usd": 6.51
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 34.9,
+        "price_usd": 9.12
+      },
+      {
+        "plan": "premium",
+        "price": 44.9,
+        "price_usd": 11.73
+      }
+    ]
+  },
+  {
+    "country_code": "PF",
+    "country": "French Polynesia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 11.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "PG",
+    "country": "Papua New Guinea",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "PH",
+    "country": "Philippines",
+    "currency": "PHP",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 369,
+        "price_usd": 6.78
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 459,
+        "price_usd": 8.44
+      },
+      {
+        "plan": "premium",
+        "price": 549,
+        "price_usd": 10.09
+      }
+    ]
+  },
+  {
+    "country_code": "PK",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 450,
+        "price_usd": 1.8
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 800,
+        "price_usd": 3.19
+      },
+      {
+        "plan": "premium",
+        "price": 1100,
+        "price_usd": 4.39
+      }
+    ]
+  },
+  {
+    "country_code": "PL",
+    "country": "Poland",
+    "currency": "PLN",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 29,
+        "price_usd": 6.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 43,
+        "price_usd": 9.94
+      },
+      {
+        "plan": "premium",
+        "price": 60,
+        "price_usd": 13.87
+      }
+    ]
+  },
+  {
+    "country_code": "PM",
+    "country": "St. Pierre & Miquelon",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 13.49,
+        "price_usd": 14.7
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "PN",
+    "country": "Pitcairn Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "PR",
+    "country": "Puerto Rico",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "PS",
+    "country": "Palestine",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "PT",
+    "country": "Portugal",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 13.06
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "PW",
+    "country": "Palau",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "PY",
+    "country": "Paraguay",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.29,
+        "price_usd": 8.29
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.49,
+        "price_usd": 11.49
+      },
+      {
+        "plan": "premium",
+        "price": 14.69,
+        "price_usd": 14.69
+      }
+    ]
+  },
+  {
+    "country_code": "QA",
+    "country": "Qatar",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 14.99,
+        "price_usd": 14.99
+      }
+    ]
+  },
+  {
+    "country_code": "RE",
+    "country": "R\u00e9union",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.49,
+        "price_usd": 13.61
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "RO",
+    "country": "Romania",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "RS",
+    "country": "Serbia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "RW",
+    "country": "Rwanda",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SA",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 32,
+        "price_usd": 8.52
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 43,
+        "price_usd": 11.45
+      },
+      {
+        "plan": "premium",
+        "price": 61,
+        "price_usd": 16.25
+      }
+    ]
+  },
+  {
+    "country_code": "SB",
+    "country": "Solomon Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SC",
+    "country": "Seychelles",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SD",
+    "country": "Sudan",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SE",
+    "country": "Sweden",
+    "currency": "SEK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 99,
+        "price_usd": 9.64
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 129,
+        "price_usd": 12.56
+      },
+      {
+        "plan": "premium",
+        "price": 179,
+        "price_usd": 17.43
+      }
+    ]
+  },
+  {
+    "country_code": "SG",
+    "country": "Singapore",
+    "currency": "SGD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 12.98,
+        "price_usd": 9.9
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 17.48,
+        "price_usd": 13.33
+      },
+      {
+        "plan": "premium",
+        "price": 21.98,
+        "price_usd": 16.76
+      }
+    ]
+  },
+  {
+    "country_code": "SH",
+    "country": "St. Helena",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SI",
+    "country": "Slovenia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "SJ",
+    "country": "Svalbard & Jan Mayen",
+    "currency": "NOK",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 89,
+        "price_usd": 9.03
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 109,
+        "price_usd": 11.05
+      },
+      {
+        "plan": "premium",
+        "price": 159,
+        "price_usd": 16.12
+      }
+    ]
+  },
+  {
+    "country_code": "SK",
+    "country": "Slovakia",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "SL",
+    "country": "Sierra Leone",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SM",
+    "country": "San Marino",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "SN",
+    "country": "Senegal",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SO",
+    "country": "Somalia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SR",
+    "country": "Suriname",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "SS",
+    "country": "South Sudan",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "ST",
+    "country": "S\u00e3o Tom\u00e9 & Pr\u00edncipe",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "SV",
+    "country": "El Salvador",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "SX",
+    "country": "Sint Maarten",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "SZ",
+    "country": "Eswatini",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TC",
+    "country": "Turks & Caicos Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "TD",
+    "country": "Chad",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TF",
+    "country": "French Southern Territories",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.99,
+        "price_usd": 13.06
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "TG",
+    "country": "Togo",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TH",
+    "country": "Thailand",
+    "currency": "THB",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 279,
+        "price_usd": 8.51
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 349,
+        "price_usd": 10.65
+      },
+      {
+        "plan": "premium",
+        "price": 419,
+        "price_usd": 12.78
+      }
+    ]
+  },
+  {
+    "country_code": "TJ",
+    "country": "Tajikistan",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.39,
+        "price_usd": 10.23
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.79,
+        "price_usd": 12.84
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 15.24
+      }
+    ]
+  },
+  {
+    "country_code": "TK",
+    "country": "Tokelau",
+    "currency": "NZD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 12.99,
+        "price_usd": 8.43
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 18.49,
+        "price_usd": 12.0
+      },
+      {
+        "plan": "premium",
+        "price": 24.99,
+        "price_usd": 16.22
+      }
+    ]
+  },
+  {
+    "country_code": "TL",
+    "country": "Timor-Leste",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TM",
+    "country": "Turkmenistan",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "TN",
+    "country": "Tunisia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TO",
+    "country": "Tonga",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TR",
+    "country": "Turkey",
+    "currency": "TRY",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 63.99,
+        "price_usd": 3.4
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 97.99,
+        "price_usd": 5.21
+      },
+      {
+        "plan": "premium",
+        "price": 130.99,
+        "price_usd": 6.96
+      }
+    ]
+  },
+  {
+    "country_code": "TT",
+    "country": "Trinidad and Tobago",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "TV",
+    "country": "Tuvalu",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "TW",
+    "country": "Taiwan",
+    "currency": "TWD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 270,
+        "price_usd": 8.93
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 330,
+        "price_usd": 10.92
+      },
+      {
+        "plan": "premium",
+        "price": 390,
+        "price_usd": 12.9
+      }
+    ]
+  },
+  {
+    "country_code": "TZ",
+    "country": "Tanzania",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "UA",
+    "country": "Ukraine",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 4.99,
+        "price_usd": 5.44
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 7.49,
+        "price_usd": 8.16
+      },
+      {
+        "plan": "premium",
+        "price": 9.99,
+        "price_usd": 10.88
+      }
+    ]
+  },
+  {
+    "country_code": "UG",
+    "country": "Uganda",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "UM",
+    "country": "U.S. Outlying Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "US",
+    "country": "United States",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "UY",
+    "country": "Uruguay",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "UZ",
+    "country": "Uzbekistan",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 10.88
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 13.06
+      }
+    ]
+  },
+  {
+    "country_code": "VA",
+    "country": "Vatican City",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 8.7
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 14.15
+      },
+      {
+        "plan": "premium",
+        "price": 17.99,
+        "price_usd": 19.6
+      }
+    ]
+  },
+  {
+    "country_code": "VC",
+    "country": "St. Vincent & Grenadines",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "VE",
+    "country": "Venezuela",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 10.99,
+        "price_usd": 10.99
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "VG",
+    "country": "British Virgin Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.99,
+        "price_usd": 12.99
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 15.99
+      }
+    ]
+  },
+  {
+    "country_code": "VI",
+    "country": "U.S. Virgin Islands",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 15.49,
+        "price_usd": 15.49
+      },
+      {
+        "plan": "premium",
+        "price": 19.99,
+        "price_usd": 19.99
+      }
+    ]
+  },
+  {
+    "country_code": "VN",
+    "country": "Vietnam",
+    "currency": "VND",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 180000,
+        "price_usd": 7.68
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 220000,
+        "price_usd": 9.38
+      },
+      {
+        "plan": "premium",
+        "price": 260000,
+        "price_usd": 11.09
+      }
+    ]
+  },
+  {
+    "country_code": "VU",
+    "country": "Vanuatu",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "WF",
+    "country": "Wallis & Futuna",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "WS",
+    "country": "Samoa",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "YE",
+    "country": "Yemen",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 7.99,
+        "price_usd": 7.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 9.99,
+        "price_usd": 9.99
+      },
+      {
+        "plan": "premium",
+        "price": 11.99,
+        "price_usd": 11.99
+      }
+    ]
+  },
+  {
+    "country_code": "YT",
+    "country": "Mayotte",
+    "currency": "EUR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 9.79
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 12.49,
+        "price_usd": 13.61
+      },
+      {
+        "plan": "premium",
+        "price": 15.99,
+        "price_usd": 17.42
+      }
+    ]
+  },
+  {
+    "country_code": "ZA",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 99,
+        "price_usd": 5.76
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 159,
+        "price_usd": 9.26
+      },
+      {
+        "plan": "premium",
+        "price": 199,
+        "price_usd": 11.59
+      }
+    ]
+  },
+  {
+    "country_code": "ZM",
+    "country": "Zambia",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 9.29,
+        "price_usd": 9.29
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.59,
+        "price_usd": 11.59
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  },
+  {
+    "country_code": "ZW",
+    "country": "Zimbabwe",
+    "currency": "USD",
+    "prices": [
+      {
+        "plan": "mobile",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "basic",
+        "price": 8.99,
+        "price_usd": 8.99
+      },
+      {
+        "plan": "standard_with_ads",
+        "price": null,
+        "price_usd": null
+      },
+      {
+        "plan": "standard",
+        "price": 11.49,
+        "price_usd": 11.49
+      },
+      {
+        "plan": "premium",
+        "price": 13.99,
+        "price_usd": 13.99
+      }
+    ]
+  }
+]
