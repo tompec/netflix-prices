@@ -12,34 +12,34 @@ Each JSON file is a list of countries with the following structure:
   "country_code": "AD",
   "country": "Andorra",
   "currency": "EUR",
-  "prices": [
+  "plans": [
     {
-      "plan": "mobile",
+      "name": "mobile",
       "price": null,
       "price_usd": null
     },
     {
-      "plan": "basic_with_ads",
+      "name": "basic_with_ads",
       "price": null,
       "price_usd": null
     },
     {
-      "plan": "basic",
+      "name": "basic",
       "price": 7.99,
       "price_usd": 8.7
     },
     {
-      "plan": "standard_with_ads",
+      "name": "standard_with_ads",
       "price": null,
       "price_usd": null
     },
     {
-      "plan": "standard",
+      "name": "standard",
       "price": 12.99,
       "price_usd": 14.15
     },
     {
-      "plan": "premium",
+      "name": "premium",
       "price": 17.99,
       "price_usd": 19.6
     }
@@ -50,8 +50,8 @@ Each JSON file is a list of countries with the following structure:
 *   **country_code**: The 2-letter ISO country code (e.g., "AD" for Andorra).
 *   **country**: The full country name.
 *   **currency**: The 3-letter ISO currency code (e.g., "EUR" for Euro).
-*   **prices**: A list of dictionaries, each containing the following keys:
-    *   **plan**: The Netflix subscription plan (e.g., "mobile", "basic_with_ads", "basic", "standard_with_ads", "standard", "premium").
+*   **plans**: A list of dictionaries, each containing the following keys:
+    *   **name**: The Netflix subscription plan (e.g., "mobile", "basic_with_ads", "basic", "standard_with_ads", "standard", "premium").
     *   **price**: The price of the subscription plan in the local currency. If the price is `null`, it means that the plan is not available in this country.
     *   **price_usd**: The price of the subscription plan in USD.
 
