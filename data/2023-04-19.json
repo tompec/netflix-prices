@@ -1223,7 +1223,7 @@
   {
     "country_code": "BV",
     "country": "Bouvet Island",
-    "currency": "SEK",
+    "currency": "NOK",
     "prices": [
       {
         "plan": "mobile",
@@ -1238,7 +1238,7 @@
       {
         "plan": "basic",
         "price": 89,
-        "price_usd": 8.63
+        "price_usd": 8.5
       },
       {
         "plan": "standard_with_ads",
@@ -1248,12 +1248,12 @@
       {
         "plan": "standard",
         "price": 109,
-        "price_usd": 10.57
+        "price_usd": 10.41
       },
       {
         "plan": "premium",
         "price": 159,
-        "price_usd": 15.42
+        "price_usd": 15.19
       }
     ]
   },
@@ -2111,7 +2111,7 @@
   {
     "country_code": "DK",
     "country": "Denmark",
-    "currency": "SEK",
+    "currency": "DKK",
     "prices": [
       {
         "plan": "mobile",
@@ -2126,7 +2126,7 @@
       {
         "plan": "basic",
         "price": 79,
-        "price_usd": 7.66
+        "price_usd": 11.64
       },
       {
         "plan": "standard_with_ads",
@@ -2136,12 +2136,12 @@
       {
         "plan": "standard",
         "price": 114,
-        "price_usd": 11.06
+        "price_usd": 16.79
       },
       {
         "plan": "premium",
         "price": 149,
-        "price_usd": 14.45
+        "price_usd": 21.95
       }
     ]
   },
@@ -2666,7 +2666,7 @@
   {
     "country_code": "FO",
     "country": "Faroe Islands",
-    "currency": "SEK",
+    "currency": "DKK",
     "prices": [
       {
         "plan": "mobile",
@@ -2681,7 +2681,7 @@
       {
         "plan": "basic",
         "price": 79,
-        "price_usd": 7.66
+        "price_usd": 11.64
       },
       {
         "plan": "standard_with_ads",
@@ -2691,12 +2691,12 @@
       {
         "plan": "standard",
         "price": 114,
-        "price_usd": 11.06
+        "price_usd": 16.79
       },
       {
         "plan": "premium",
         "price": 149,
-        "price_usd": 14.45
+        "price_usd": 21.95
       }
     ]
   },
@@ -3036,7 +3036,7 @@
   {
     "country_code": "GL",
     "country": "Greenland",
-    "currency": "SEK",
+    "currency": "DKK",
     "prices": [
       {
         "plan": "mobile",
@@ -3051,7 +3051,7 @@
       {
         "plan": "basic",
         "price": 79,
-        "price_usd": 7.66
+        "price_usd": 11.64
       },
       {
         "plan": "standard_with_ads",
@@ -3061,12 +3061,12 @@
       {
         "plan": "standard",
         "price": 114,
-        "price_usd": 11.06
+        "price_usd": 16.79
       },
       {
         "plan": "premium",
         "price": 149,
-        "price_usd": 14.45
+        "price_usd": 21.95
       }
     ]
   },
@@ -6070,7 +6070,7 @@
   {
     "country_code": "NO",
     "country": "Norway",
-    "currency": "SEK",
+    "currency": "NOK",
     "prices": [
       {
         "plan": "mobile",
@@ -6085,7 +6085,7 @@
       {
         "plan": "basic",
         "price": 89,
-        "price_usd": 8.63
+        "price_usd": 8.5
       },
       {
         "plan": "standard_with_ads",
@@ -6095,12 +6095,12 @@
       {
         "plan": "standard",
         "price": 109,
-        "price_usd": 10.57
+        "price_usd": 10.41
       },
       {
         "plan": "premium",
         "price": 159,
-        "price_usd": 15.42
+        "price_usd": 15.19
       }
     ]
   },
@@ -6477,12 +6477,12 @@
   {
     "country_code": "PK",
     "country": "Pakistan",
-    "currency": "INR",
+    "currency": "PKR",
     "prices": [
       {
         "plan": "mobile",
         "price": 250,
-        "price_usd": 3.04
+        "price_usd": 0.88
       },
       {
         "plan": "basic_with_ads",
@@ -6492,7 +6492,7 @@
       {
         "plan": "basic",
         "price": 450,
-        "price_usd": 5.48
+        "price_usd": 1.59
       },
       {
         "plan": "standard_with_ads",
@@ -6502,12 +6502,12 @@
       {
         "plan": "standard",
         "price": 800,
-        "price_usd": 9.74
+        "price_usd": 2.82
       },
       {
         "plan": "premium",
         "price": 1100,
-        "price_usd": 13.4
+        "price_usd": 3.88
       }
     ]
   },
@@ -7291,7 +7291,7 @@
   {
     "country_code": "SJ",
     "country": "Svalbard & Jan Mayen",
-    "currency": "SEK",
+    "currency": "NOK",
     "prices": [
       {
         "plan": "mobile",
@@ -7306,7 +7306,7 @@
       {
         "plan": "basic",
         "price": 89,
-        "price_usd": 8.63
+        "price_usd": 8.5
       },
       {
         "plan": "standard_with_ads",
@@ -7316,12 +7316,12 @@
       {
         "plan": "standard",
         "price": 109,
-        "price_usd": 10.57
+        "price_usd": 10.41
       },
       {
         "plan": "premium",
         "price": 159,
-        "price_usd": 15.42
+        "price_usd": 15.19
       }
     ]
   },
