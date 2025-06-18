@@ -5963,8 +5963,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2200.0,
-        "price_usd": 1.38
+        "price": 2500.0,
+        "price_usd": 1.62
       },
       {
         "name": "basic_with_ads",
@@ -5973,8 +5973,8 @@
       },
       {
         "name": "basic",
-        "price": 3500.0,
-        "price_usd": 2.19
+        "price": 4000.0,
+        "price_usd": 2.59
       },
       {
         "name": "standard_with_ads",
@@ -5983,13 +5983,13 @@
       },
       {
         "name": "standard",
-        "price": 5500.0,
-        "price_usd": 3.44
+        "price": 6500.0,
+        "price_usd": 4.21
       },
       {
         "name": "premium",
-        "price": 7000.0,
-        "price_usd": 4.38
+        "price": 8500.0,
+        "price_usd": 5.51
       }
     ]
   },
@@ -8156,8 +8156,8 @@
       },
       {
         "name": "basic",
-        "price": 149.99,
-        "price_usd": 3.86
+        "price": 189.99,
+        "price_usd": 4.81
       },
       {
         "name": "standard_with_ads",
@@ -8166,13 +8166,13 @@
       },
       {
         "name": "standard",
-        "price": 229.99,
-        "price_usd": 5.92
+        "price": 289.99,
+        "price_usd": 7.34
       },
       {
         "name": "premium",
-        "price": 299.99,
-        "price_usd": 7.72
+        "price": 379.99,
+        "price_usd": 9.61
       }
     ]
   },
@@ -8738,8 +8738,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 70000.0,
-        "price_usd": 2.7
+        "price": 74000.0,
+        "price_usd": 2.84
       },
       {
         "name": "basic_with_ads",
@@ -8748,8 +8748,8 @@
       },
       {
         "name": "basic",
-        "price": 108000.0,
-        "price_usd": 4.16
+        "price": 114000.0,
+        "price_usd": 4.37
       },
       {
         "name": "standard_with_ads",
@@ -8758,13 +8758,13 @@
       },
       {
         "name": "standard",
-        "price": 220000.0,
-        "price_usd": 8.48
+        "price": 231000.0,
+        "price_usd": 8.86
       },
       {
         "name": "premium",
-        "price": 260000.0,
-        "price_usd": 10.03
+        "price": 273000.0,
+        "price_usd": 10.47
       }
     ]
   },
