@@ -349,8 +349,8 @@
       },
       {
         "name": "basic",
-        "price": 5999.0,
-        "price_usd": 5.27
+        "price": 7199.0,
+        "price_usd": 5.81
       },
       {
         "name": "standard_with_ads",
@@ -359,13 +359,13 @@
       },
       {
         "name": "standard",
-        "price": 9999.0,
-        "price_usd": 8.79
+        "price": 11999.0,
+        "price_usd": 9.68
       },
       {
         "name": "premium",
-        "price": 13499.0,
-        "price_usd": 11.86
+        "price": 15999.0,
+        "price_usd": 12.91
       }
     ]
   },
