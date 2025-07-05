@@ -672,8 +672,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -1190,8 +1190,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -2559,8 +2559,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -2796,8 +2796,8 @@
       },
       {
         "name": "standard_with_ads",
-        "price": null,
-        "price_usd": null
+        "price": 5.99,
+        "price_usd": 8.18
       },
       {
         "name": "standard",
@@ -3817,8 +3817,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 149.0,
-        "price_usd": 1.75
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -4261,8 +4261,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -4298,8 +4298,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -4557,8 +4557,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -4705,8 +4705,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -5297,8 +5297,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -5334,8 +5334,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -6111,8 +6111,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -6407,8 +6407,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -6481,8 +6481,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 250.0,
-        "price_usd": 0.89
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -6592,8 +6592,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -7036,8 +7036,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -7998,8 +7998,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -8109,8 +8109,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -8220,8 +8220,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -8775,8 +8775,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -8812,8 +8812,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -8849,8 +8849,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 2.99,
-        "price_usd": 2.99
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
@@ -8960,8 +8960,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 59.0,
-        "price_usd": 3.26
+        "price": null,
+        "price_usd": null
       },
       {
         "name": "basic_with_ads",
