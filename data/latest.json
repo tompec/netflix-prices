@@ -17,7 +17,7 @@
       {
         "name": "basic",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "standard_with_ads",
@@ -27,12 +27,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -202,7 +202,7 @@
       {
         "name": "basic",
         "price": 4.99,
-        "price_usd": 5.82
+        "price_usd": 5.68
       },
       {
         "name": "standard_with_ads",
@@ -212,12 +212,12 @@
       {
         "name": "standard",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "premium",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       }
     ]
   },
@@ -239,7 +239,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -249,12 +249,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -350,7 +350,7 @@
       {
         "name": "basic",
         "price": 8999.0,
-        "price_usd": 5.94
+        "price_usd": 5.9
       },
       {
         "name": "standard_with_ads",
@@ -360,12 +360,12 @@
       {
         "name": "standard",
         "price": 14999.0,
-        "price_usd": 9.91
+        "price_usd": 9.84
       },
       {
         "name": "premium",
         "price": 19999.0,
-        "price_usd": 13.21
+        "price_usd": 13.12
       }
     ]
   },
@@ -423,8 +423,8 @@
       },
       {
         "name": "basic",
-        "price": 8.99,
-        "price_usd": 10.48
+        "price": 10.99,
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -433,13 +433,13 @@
       },
       {
         "name": "standard",
-        "price": 13.99,
-        "price_usd": 16.31
+        "price": 15.99,
+        "price_usd": 18.19
       },
       {
         "name": "premium",
-        "price": 19.99,
-        "price_usd": 23.3
+        "price": 21.99,
+        "price_usd": 25.02
       }
     ]
   },
@@ -466,17 +466,17 @@
       {
         "name": "standard_with_ads",
         "price": 9.99,
-        "price_usd": 7.17
+        "price_usd": 7.0
       },
       {
         "name": "standard",
         "price": 20.99,
-        "price_usd": 15.07
+        "price_usd": 14.71
       },
       {
         "name": "premium",
         "price": 28.99,
-        "price_usd": 20.82
+        "price_usd": 20.32
       }
     ]
   },
@@ -535,7 +535,7 @@
       {
         "name": "basic",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -545,12 +545,12 @@
       {
         "name": "standard",
         "price": 15.99,
-        "price_usd": 18.64
+        "price_usd": 18.19
       },
       {
         "name": "premium",
         "price": 19.99,
-        "price_usd": 23.3
+        "price_usd": 22.74
       }
     ]
   },
@@ -572,7 +572,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -582,12 +582,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -609,7 +609,7 @@
       {
         "name": "basic",
         "price": 4.99,
-        "price_usd": 5.82
+        "price_usd": 5.68
       },
       {
         "name": "standard_with_ads",
@@ -619,12 +619,12 @@
       {
         "name": "standard",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "premium",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       }
     ]
   },
@@ -720,7 +720,7 @@
       {
         "name": "basic",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -730,12 +730,12 @@
       {
         "name": "standard",
         "price": 16.99,
-        "price_usd": 19.8
+        "price_usd": 19.33
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -794,7 +794,7 @@
       {
         "name": "basic",
         "price": 5.99,
-        "price_usd": 6.98
+        "price_usd": 6.82
       },
       {
         "name": "standard_with_ads",
@@ -804,12 +804,12 @@
       {
         "name": "standard",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "premium",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       }
     ]
   },
@@ -1052,8 +1052,8 @@
       },
       {
         "name": "basic",
-        "price": 3.99,
-        "price_usd": 3.99
+        "price": 4.99,
+        "price_usd": 4.99
       },
       {
         "name": "standard_with_ads",
@@ -1062,13 +1062,13 @@
       },
       {
         "name": "standard",
-        "price": 5.99,
-        "price_usd": 5.99
+        "price": 6.99,
+        "price_usd": 6.99
       },
       {
         "name": "premium",
-        "price": 7.99,
-        "price_usd": 7.99
+        "price": 8.99,
+        "price_usd": 8.99
       }
     ]
   },
@@ -1132,17 +1132,17 @@
       {
         "name": "standard_with_ads",
         "price": 20.9,
-        "price_usd": 4.06
+        "price_usd": 4.03
       },
       {
         "name": "standard",
         "price": 44.9,
-        "price_usd": 8.72
+        "price_usd": 8.66
       },
       {
         "name": "premium",
         "price": 59.9,
-        "price_usd": 11.63
+        "price_usd": 11.55
       }
     ]
   },
@@ -1312,7 +1312,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -1322,12 +1322,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -1391,17 +1391,17 @@
       {
         "name": "standard_with_ads",
         "price": 7.99,
-        "price_usd": 5.76
+        "price_usd": 5.64
       },
       {
         "name": "standard",
         "price": 18.99,
-        "price_usd": 13.69
+        "price_usd": 13.42
       },
       {
         "name": "premium",
         "price": 23.99,
-        "price_usd": 17.29
+        "price_usd": 16.95
       }
     ]
   },
@@ -1423,7 +1423,7 @@
       {
         "name": "basic",
         "price": 12.99,
-        "price_usd": 9.33
+        "price_usd": 9.1
       },
       {
         "name": "standard_with_ads",
@@ -1433,12 +1433,12 @@
       {
         "name": "standard",
         "price": 18.99,
-        "price_usd": 13.64
+        "price_usd": 13.31
       },
       {
         "name": "premium",
         "price": 25.99,
-        "price_usd": 18.66
+        "price_usd": 18.22
       }
     ]
   },
@@ -1571,7 +1571,7 @@
       {
         "name": "basic",
         "price": 14.9,
-        "price_usd": 18.51
+        "price_usd": 17.96
       },
       {
         "name": "standard_with_ads",
@@ -1581,12 +1581,12 @@
       {
         "name": "standard",
         "price": 22.9,
-        "price_usd": 28.44
+        "price_usd": 27.6
       },
       {
         "name": "premium",
         "price": 29.9,
-        "price_usd": 37.14
+        "price_usd": 36.03
       }
     ]
   },
@@ -1645,7 +1645,7 @@
       {
         "name": "basic",
         "price": 17.99,
-        "price_usd": 10.7
+        "price_usd": 10.17
       },
       {
         "name": "standard_with_ads",
@@ -1655,12 +1655,12 @@
       {
         "name": "standard",
         "price": 25.99,
-        "price_usd": 15.46
+        "price_usd": 14.69
       },
       {
         "name": "premium",
         "price": 33.99,
-        "price_usd": 20.22
+        "price_usd": 19.21
       }
     ]
   },
@@ -1682,7 +1682,7 @@
       {
         "name": "basic",
         "price": 7190.0,
-        "price_usd": 7.8
+        "price_usd": 7.48
       },
       {
         "name": "standard_with_ads",
@@ -1692,12 +1692,12 @@
       {
         "name": "standard",
         "price": 9990.0,
-        "price_usd": 10.84
+        "price_usd": 10.39
       },
       {
         "name": "premium",
         "price": 12990.0,
-        "price_usd": 14.1
+        "price_usd": 13.51
       }
     ]
   },
@@ -1756,7 +1756,7 @@
       {
         "name": "basic",
         "price": 18900.0,
-        "price_usd": 6.04
+        "price_usd": 5.74
       },
       {
         "name": "standard_with_ads",
@@ -1766,12 +1766,12 @@
       {
         "name": "standard",
         "price": 29900.0,
-        "price_usd": 9.55
+        "price_usd": 9.08
       },
       {
         "name": "premium",
         "price": 44900.0,
-        "price_usd": 14.35
+        "price_usd": 13.63
       }
     ]
   },
@@ -1978,7 +1978,7 @@
       {
         "name": "basic",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "standard_with_ads",
@@ -1988,12 +1988,12 @@
       {
         "name": "standard",
         "price": 12.49,
-        "price_usd": 14.56
+        "price_usd": 14.21
       },
       {
         "name": "premium",
         "price": 15.99,
-        "price_usd": 18.64
+        "price_usd": 18.19
       }
     ]
   },
@@ -2015,7 +2015,7 @@
       {
         "name": "basic",
         "price": 259.0,
-        "price_usd": 12.51
+        "price_usd": 12.09
       },
       {
         "name": "standard_with_ads",
@@ -2025,12 +2025,12 @@
       {
         "name": "standard",
         "price": 339.0,
-        "price_usd": 16.38
+        "price_usd": 15.82
       },
       {
         "name": "premium",
         "price": 419.0,
-        "price_usd": 20.24
+        "price_usd": 19.56
       }
     ]
   },
@@ -2056,18 +2056,18 @@
       },
       {
         "name": "standard_with_ads",
-        "price": 4.99,
-        "price_usd": 5.82
+        "price": 6.99,
+        "price_usd": 7.95
       },
       {
         "name": "standard",
-        "price": 13.99,
-        "price_usd": 16.31
+        "price": 15.99,
+        "price_usd": 18.19
       },
       {
         "name": "premium",
-        "price": 19.99,
-        "price_usd": 23.3
+        "price": 21.99,
+        "price_usd": 25.02
       }
     ]
   },
@@ -2126,7 +2126,7 @@
       {
         "name": "basic",
         "price": 109.0,
-        "price_usd": 16.99
+        "price_usd": 16.59
       },
       {
         "name": "standard_with_ads",
@@ -2136,12 +2136,12 @@
       {
         "name": "standard",
         "price": 149.0,
-        "price_usd": 23.23
+        "price_usd": 22.68
       },
       {
         "name": "premium",
         "price": 189.0,
-        "price_usd": 29.47
+        "price_usd": 28.77
       }
     ]
   },
@@ -2311,7 +2311,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -2321,12 +2321,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -2348,7 +2348,7 @@
       {
         "name": "basic",
         "price": 110.0,
-        "price_usd": 2.19
+        "price_usd": 2.13
       },
       {
         "name": "standard_with_ads",
@@ -2358,12 +2358,12 @@
       {
         "name": "standard",
         "price": 190.0,
-        "price_usd": 3.78
+        "price_usd": 3.68
       },
       {
         "name": "premium",
         "price": 270.0,
-        "price_usd": 5.37
+        "price_usd": 5.22
       }
     ]
   },
@@ -2464,17 +2464,17 @@
       {
         "name": "standard_with_ads",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -2533,7 +2533,7 @@
       {
         "name": "basic",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -2543,12 +2543,12 @@
       {
         "name": "standard",
         "price": 15.99,
-        "price_usd": 18.64
+        "price_usd": 18.19
       },
       {
         "name": "premium",
         "price": 19.99,
-        "price_usd": 23.3
+        "price_usd": 22.74
       }
     ]
   },
@@ -2681,7 +2681,7 @@
       {
         "name": "basic",
         "price": 109.0,
-        "price_usd": 16.99
+        "price_usd": 16.59
       },
       {
         "name": "standard_with_ads",
@@ -2691,12 +2691,12 @@
       {
         "name": "standard",
         "price": 149.0,
-        "price_usd": 23.23
+        "price_usd": 22.68
       },
       {
         "name": "premium",
         "price": 189.0,
-        "price_usd": 29.47
+        "price_usd": 28.77
       }
     ]
   },
@@ -2723,17 +2723,17 @@
       {
         "name": "standard_with_ads",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -2796,18 +2796,18 @@
       },
       {
         "name": "standard_with_ads",
-        "price": 5.99,
-        "price_usd": 8.14
+        "price": 7.99,
+        "price_usd": 10.57
       },
       {
         "name": "standard",
-        "price": 12.99,
-        "price_usd": 17.66
+        "price": 13.99,
+        "price_usd": 18.51
       },
       {
         "name": "premium",
-        "price": 18.99,
-        "price_usd": 25.82
+        "price": 20.99,
+        "price_usd": 27.77
       }
     ]
   },
@@ -2866,7 +2866,7 @@
       {
         "name": "basic",
         "price": 9.39,
-        "price_usd": 10.94
+        "price_usd": 10.68
       },
       {
         "name": "standard_with_ads",
@@ -2876,12 +2876,12 @@
       {
         "name": "standard",
         "price": 11.79,
-        "price_usd": 13.74
+        "price_usd": 13.41
       },
       {
         "name": "premium",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       }
     ]
   },
@@ -2903,7 +2903,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -2913,12 +2913,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -2944,18 +2944,18 @@
       },
       {
         "name": "standard_with_ads",
-        "price": 5.99,
-        "price_usd": 8.14
+        "price": 7.99,
+        "price_usd": 10.57
       },
       {
         "name": "standard",
-        "price": 12.99,
-        "price_usd": 17.66
+        "price": 13.99,
+        "price_usd": 18.51
       },
       {
         "name": "premium",
-        "price": 18.99,
-        "price_usd": 25.82
+        "price": 20.99,
+        "price_usd": 27.77
       }
     ]
   },
@@ -3014,7 +3014,7 @@
       {
         "name": "basic",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "standard_with_ads",
@@ -3024,12 +3024,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -3051,7 +3051,7 @@
       {
         "name": "basic",
         "price": 109.0,
-        "price_usd": 16.99
+        "price_usd": 16.59
       },
       {
         "name": "standard_with_ads",
@@ -3061,12 +3061,12 @@
       {
         "name": "standard",
         "price": 149.0,
-        "price_usd": 23.23
+        "price_usd": 22.68
       },
       {
         "name": "premium",
         "price": 189.0,
-        "price_usd": 29.47
+        "price_usd": 28.77
       }
     ]
   },
@@ -3162,7 +3162,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -3172,12 +3172,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -3236,7 +3236,7 @@
       {
         "name": "basic",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "standard_with_ads",
@@ -3246,12 +3246,12 @@
       {
         "name": "standard",
         "price": 12.49,
-        "price_usd": 14.56
+        "price_usd": 14.21
       },
       {
         "name": "premium",
         "price": 15.99,
-        "price_usd": 18.64
+        "price_usd": 18.19
       }
     ]
   },
@@ -3458,7 +3458,7 @@
       {
         "name": "basic",
         "price": 78.0,
-        "price_usd": 9.95
+        "price_usd": 9.94
       },
       {
         "name": "standard_with_ads",
@@ -3468,12 +3468,12 @@
       {
         "name": "standard",
         "price": 98.0,
-        "price_usd": 12.5
+        "price_usd": 12.49
       },
       {
         "name": "premium",
         "price": 118.0,
-        "price_usd": 15.05
+        "price_usd": 15.04
       }
     ]
   },
@@ -3569,7 +3569,7 @@
       {
         "name": "basic",
         "price": 5.99,
-        "price_usd": 6.98
+        "price_usd": 6.82
       },
       {
         "name": "standard_with_ads",
@@ -3579,12 +3579,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 12.99,
-        "price_usd": 15.14
+        "price_usd": 14.78
       }
     ]
   },
@@ -3643,7 +3643,7 @@
       {
         "name": "basic",
         "price": 3190.0,
-        "price_usd": 10.27
+        "price_usd": 9.94
       },
       {
         "name": "standard_with_ads",
@@ -3653,12 +3653,12 @@
       {
         "name": "standard",
         "price": 4490.0,
-        "price_usd": 14.45
+        "price_usd": 13.99
       },
       {
         "name": "premium",
         "price": 5690.0,
-        "price_usd": 18.32
+        "price_usd": 17.73
       }
     ]
   },
@@ -3670,7 +3670,7 @@
       {
         "name": "mobile",
         "price": 54000.0,
-        "price_usd": 3.03
+        "price_usd": 3.01
       },
       {
         "name": "basic_with_ads",
@@ -3680,7 +3680,7 @@
       {
         "name": "basic",
         "price": 65000.0,
-        "price_usd": 3.65
+        "price_usd": 3.63
       },
       {
         "name": "standard_with_ads",
@@ -3690,12 +3690,12 @@
       {
         "name": "standard",
         "price": 120000.0,
-        "price_usd": 6.74
+        "price_usd": 6.7
       },
       {
         "name": "premium",
         "price": 186000.0,
-        "price_usd": 10.44
+        "price_usd": 10.38
       }
     ]
   },
@@ -3716,8 +3716,8 @@
       },
       {
         "name": "basic",
-        "price": 10.99,
-        "price_usd": 12.81
+        "price": 11.99,
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -3726,13 +3726,13 @@
       },
       {
         "name": "standard",
-        "price": 16.99,
-        "price_usd": 19.8
+        "price": 18.99,
+        "price_usd": 21.61
       },
       {
         "name": "premium",
-        "price": 23.99,
-        "price_usd": 27.96
+        "price": 25.99,
+        "price_usd": 29.57
       }
     ]
   },
@@ -3754,7 +3754,7 @@
       {
         "name": "basic",
         "price": 32.9,
-        "price_usd": 11.09
+        "price_usd": 10.8
       },
       {
         "name": "standard_with_ads",
@@ -3764,12 +3764,12 @@
       {
         "name": "standard",
         "price": 54.9,
-        "price_usd": 18.5
+        "price_usd": 18.02
       },
       {
         "name": "premium",
         "price": 69.9,
-        "price_usd": 23.55
+        "price_usd": 22.95
       }
     ]
   },
@@ -3795,18 +3795,18 @@
       },
       {
         "name": "standard_with_ads",
-        "price": 5.99,
-        "price_usd": 8.14
+        "price": 7.99,
+        "price_usd": 10.57
       },
       {
         "name": "standard",
-        "price": 12.99,
-        "price_usd": 17.66
+        "price": 13.99,
+        "price_usd": 18.51
       },
       {
         "name": "premium",
-        "price": 18.99,
-        "price_usd": 25.82
+        "price": 20.99,
+        "price_usd": 27.77
       }
     ]
   },
@@ -3818,7 +3818,7 @@
       {
         "name": "mobile",
         "price": 149.0,
-        "price_usd": 1.56
+        "price_usd": 1.55
       },
       {
         "name": "basic_with_ads",
@@ -3828,7 +3828,7 @@
       {
         "name": "basic",
         "price": 199.0,
-        "price_usd": 2.09
+        "price_usd": 2.07
       },
       {
         "name": "standard_with_ads",
@@ -3838,12 +3838,12 @@
       {
         "name": "standard",
         "price": 499.0,
-        "price_usd": 5.23
+        "price_usd": 5.18
       },
       {
         "name": "premium",
         "price": 649.0,
-        "price_usd": 6.81
+        "price_usd": 6.74
       }
     ]
   },
@@ -3976,7 +3976,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -3986,12 +3986,12 @@
       {
         "name": "standard",
         "price": 16.99,
-        "price_usd": 19.8
+        "price_usd": 19.33
       },
       {
         "name": "premium",
         "price": 23.99,
-        "price_usd": 27.96
+        "price_usd": 27.3
       }
     ]
   },
@@ -4018,17 +4018,17 @@
       {
         "name": "standard_with_ads",
         "price": 6.99,
-        "price_usd": 8.15
+        "price_usd": 7.95
       },
       {
         "name": "standard",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       },
       {
         "name": "premium",
         "price": 19.99,
-        "price_usd": 23.3
+        "price_usd": 22.74
       }
     ]
   },
@@ -4054,18 +4054,18 @@
       },
       {
         "name": "standard_with_ads",
-        "price": 5.99,
-        "price_usd": 8.14
+        "price": 7.99,
+        "price_usd": 10.57
       },
       {
         "name": "standard",
-        "price": 12.99,
-        "price_usd": 17.66
+        "price": 13.99,
+        "price_usd": 18.51
       },
       {
         "name": "premium",
-        "price": 18.99,
-        "price_usd": 25.82
+        "price": 20.99,
+        "price_usd": 27.77
       }
     ]
   },
@@ -4086,8 +4086,8 @@
       },
       {
         "name": "basic",
-        "price": 4.99,
-        "price_usd": 4.99
+        "price": 5.99,
+        "price_usd": 5.99
       },
       {
         "name": "standard_with_ads",
@@ -4096,13 +4096,13 @@
       },
       {
         "name": "standard",
-        "price": 6.99,
-        "price_usd": 6.99
+        "price": 7.99,
+        "price_usd": 7.99
       },
       {
         "name": "premium",
-        "price": 9.99,
-        "price_usd": 9.99
+        "price": 10.99,
+        "price_usd": 10.99
       }
     ]
   },
@@ -4166,17 +4166,17 @@
       {
         "name": "standard_with_ads",
         "price": 890.0,
-        "price_usd": 5.59
+        "price_usd": 5.65
       },
       {
         "name": "standard",
         "price": 1590.0,
-        "price_usd": 9.98
+        "price_usd": 10.1
       },
       {
         "name": "premium",
         "price": 2290.0,
-        "price_usd": 14.38
+        "price_usd": 14.54
       }
     ]
   },
@@ -4188,7 +4188,7 @@
       {
         "name": "mobile",
         "price": 200.0,
-        "price_usd": 1.55
+        "price_usd": 1.54
       },
       {
         "name": "basic_with_ads",
@@ -4198,7 +4198,7 @@
       {
         "name": "basic",
         "price": 300.0,
-        "price_usd": 2.32
+        "price_usd": 2.31
       },
       {
         "name": "standard_with_ads",
@@ -4208,12 +4208,12 @@
       {
         "name": "standard",
         "price": 700.0,
-        "price_usd": 5.41
+        "price_usd": 5.4
       },
       {
         "name": "premium",
         "price": 1100.0,
-        "price_usd": 8.5
+        "price_usd": 8.49
       }
     ]
   },
@@ -4235,7 +4235,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -4245,12 +4245,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -4425,17 +4425,17 @@
       {
         "name": "standard_with_ads",
         "price": 7000.0,
-        "price_usd": 5.06
+        "price_usd": 5.16
       },
       {
         "name": "standard",
         "price": 13500.0,
-        "price_usd": 9.75
+        "price_usd": 9.96
       },
       {
         "name": "premium",
         "price": 17000.0,
-        "price_usd": 12.28
+        "price_usd": 12.54
       }
     ]
   },
@@ -4531,7 +4531,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -4541,12 +4541,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -4679,7 +4679,7 @@
       {
         "name": "basic",
         "price": 14.9,
-        "price_usd": 18.51
+        "price_usd": 17.96
       },
       {
         "name": "standard_with_ads",
@@ -4689,12 +4689,12 @@
       {
         "name": "standard",
         "price": 22.9,
-        "price_usd": 28.44
+        "price_usd": 27.6
       },
       {
         "name": "premium",
         "price": 29.9,
-        "price_usd": 37.14
+        "price_usd": 36.03
       }
     ]
   },
@@ -4827,7 +4827,7 @@
       {
         "name": "basic",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "standard_with_ads",
@@ -4837,12 +4837,12 @@
       {
         "name": "standard",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       },
       {
         "name": "premium",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       }
     ]
   },
@@ -4864,7 +4864,7 @@
       {
         "name": "basic",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -4874,12 +4874,12 @@
       {
         "name": "standard",
         "price": 16.99,
-        "price_usd": 19.8
+        "price_usd": 19.33
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -4901,7 +4901,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -4911,12 +4911,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -4975,7 +4975,7 @@
       {
         "name": "basic",
         "price": 45.0,
-        "price_usd": 4.86
+        "price_usd": 4.69
       },
       {
         "name": "standard_with_ads",
@@ -4985,12 +4985,12 @@
       {
         "name": "standard",
         "price": 80.0,
-        "price_usd": 8.64
+        "price_usd": 8.34
       },
       {
         "name": "premium",
         "price": 115.0,
-        "price_usd": 12.42
+        "price_usd": 11.99
       }
     ]
   },
@@ -5012,7 +5012,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -5022,12 +5022,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -5049,7 +5049,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -5059,12 +5059,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -5086,7 +5086,7 @@
       {
         "name": "basic",
         "price": 4.99,
-        "price_usd": 5.82
+        "price_usd": 5.68
       },
       {
         "name": "standard_with_ads",
@@ -5096,12 +5096,12 @@
       {
         "name": "standard",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "premium",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       }
     ]
   },
@@ -5234,7 +5234,7 @@
       {
         "name": "basic",
         "price": 4.99,
-        "price_usd": 5.82
+        "price_usd": 5.68
       },
       {
         "name": "standard_with_ads",
@@ -5244,12 +5244,12 @@
       {
         "name": "standard",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "premium",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       }
     ]
   },
@@ -5456,7 +5456,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -5466,12 +5466,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -5567,7 +5567,7 @@
       {
         "name": "basic",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "standard_with_ads",
@@ -5577,12 +5577,12 @@
       {
         "name": "standard",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       },
       {
         "name": "premium",
         "price": 19.99,
-        "price_usd": 23.3
+        "price_usd": 22.74
       }
     ]
   },
@@ -5720,17 +5720,17 @@
       {
         "name": "standard_with_ads",
         "price": 139.0,
-        "price_usd": 8.2
+        "price_usd": 7.83
       },
       {
         "name": "standard",
         "price": 269.0,
-        "price_usd": 15.87
+        "price_usd": 15.16
       },
       {
         "name": "premium",
         "price": 369.0,
-        "price_usd": 21.77
+        "price_usd": 20.79
       }
     ]
   },
@@ -5741,8 +5741,8 @@
     "plans": [
       {
         "name": "mobile",
-        "price": 18.9,
-        "price_usd": 4.69
+        "price": 19.9,
+        "price_usd": 4.88
       },
       {
         "name": "basic_with_ads",
@@ -5751,8 +5751,8 @@
       },
       {
         "name": "basic",
-        "price": 29.9,
-        "price_usd": 7.43
+        "price": 33.9,
+        "price_usd": 8.31
       },
       {
         "name": "standard_with_ads",
@@ -5761,13 +5761,13 @@
       },
       {
         "name": "standard",
-        "price": 49.9,
-        "price_usd": 12.39
+        "price": 55.9,
+        "price_usd": 13.7
       },
       {
         "name": "premium",
-        "price": 62.9,
-        "price_usd": 15.62
+        "price": 69.9,
+        "price_usd": 17.13
       }
     ]
   },
@@ -5937,7 +5937,7 @@
       {
         "name": "basic",
         "price": 12.99,
-        "price_usd": 9.33
+        "price_usd": 9.1
       },
       {
         "name": "standard_with_ads",
@@ -5947,12 +5947,12 @@
       {
         "name": "standard",
         "price": 18.99,
-        "price_usd": 13.64
+        "price_usd": 13.31
       },
       {
         "name": "premium",
         "price": 25.99,
-        "price_usd": 18.66
+        "price_usd": 18.22
       }
     ]
   },
@@ -5964,7 +5964,7 @@
       {
         "name": "mobile",
         "price": 2500.0,
-        "price_usd": 1.86
+        "price_usd": 1.89
       },
       {
         "name": "basic_with_ads",
@@ -5974,7 +5974,7 @@
       {
         "name": "basic",
         "price": 4000.0,
-        "price_usd": 2.97
+        "price_usd": 3.02
       },
       {
         "name": "standard_with_ads",
@@ -5984,12 +5984,12 @@
       {
         "name": "standard",
         "price": 6500.0,
-        "price_usd": 4.83
+        "price_usd": 4.9
       },
       {
         "name": "premium",
         "price": 8500.0,
-        "price_usd": 6.32
+        "price_usd": 6.41
       }
     ]
   },
@@ -6048,7 +6048,7 @@
       {
         "name": "basic",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "standard_with_ads",
@@ -6058,12 +6058,12 @@
       {
         "name": "standard",
         "price": 15.99,
-        "price_usd": 18.64
+        "price_usd": 18.19
       },
       {
         "name": "premium",
         "price": 20.99,
-        "price_usd": 24.46
+        "price_usd": 23.88
       }
     ]
   },
@@ -6085,7 +6085,7 @@
       {
         "name": "basic",
         "price": 119.0,
-        "price_usd": 12.73
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -6095,12 +6095,12 @@
       {
         "name": "standard",
         "price": 149.0,
-        "price_usd": 15.94
+        "price_usd": 15.65
       },
       {
         "name": "premium",
         "price": 219.0,
-        "price_usd": 23.43
+        "price_usd": 23.0
       }
     ]
   },
@@ -6196,7 +6196,7 @@
       {
         "name": "basic",
         "price": 17.99,
-        "price_usd": 10.7
+        "price_usd": 10.17
       },
       {
         "name": "standard_with_ads",
@@ -6206,12 +6206,12 @@
       {
         "name": "standard",
         "price": 25.99,
-        "price_usd": 15.46
+        "price_usd": 14.69
       },
       {
         "name": "premium",
         "price": 33.99,
-        "price_usd": 20.22
+        "price_usd": 19.21
       }
     ]
   },
@@ -6233,7 +6233,7 @@
       {
         "name": "basic",
         "price": 17.99,
-        "price_usd": 10.7
+        "price_usd": 10.17
       },
       {
         "name": "standard_with_ads",
@@ -6243,12 +6243,12 @@
       {
         "name": "standard",
         "price": 25.99,
-        "price_usd": 15.46
+        "price_usd": 14.69
       },
       {
         "name": "premium",
         "price": 33.99,
-        "price_usd": 20.22
+        "price_usd": 19.21
       }
     ]
   },
@@ -6344,7 +6344,7 @@
       {
         "name": "basic",
         "price": 28.9,
-        "price_usd": 8.55
+        "price_usd": 8.52
       },
       {
         "name": "standard_with_ads",
@@ -6354,12 +6354,12 @@
       {
         "name": "standard",
         "price": 44.9,
-        "price_usd": 13.29
+        "price_usd": 13.23
       },
       {
         "name": "premium",
         "price": 58.9,
-        "price_usd": 17.43
+        "price_usd": 17.36
       }
     ]
   },
@@ -6445,7 +6445,7 @@
       {
         "name": "mobile",
         "price": 169.0,
-        "price_usd": 2.74
+        "price_usd": 2.7
       },
       {
         "name": "basic_with_ads",
@@ -6455,7 +6455,7 @@
       {
         "name": "basic",
         "price": 279.0,
-        "price_usd": 4.53
+        "price_usd": 4.47
       },
       {
         "name": "standard_with_ads",
@@ -6465,12 +6465,12 @@
       {
         "name": "standard",
         "price": 449.0,
-        "price_usd": 7.28
+        "price_usd": 7.19
       },
       {
         "name": "premium",
         "price": 619.0,
-        "price_usd": 10.04
+        "price_usd": 9.91
       }
     ]
   },
@@ -6502,7 +6502,7 @@
       {
         "name": "standard",
         "price": 800.0,
-        "price_usd": 2.88
+        "price_usd": 2.89
       },
       {
         "name": "premium",
@@ -6529,7 +6529,7 @@
       {
         "name": "basic",
         "price": 37.0,
-        "price_usd": 10.01
+        "price_usd": 9.63
       },
       {
         "name": "standard_with_ads",
@@ -6539,12 +6539,12 @@
       {
         "name": "standard",
         "price": 55.0,
-        "price_usd": 14.88
+        "price_usd": 14.31
       },
       {
         "name": "premium",
         "price": 75.0,
-        "price_usd": 20.29
+        "price_usd": 19.52
       }
     ]
   },
@@ -6566,7 +6566,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -6576,12 +6576,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -6714,7 +6714,7 @@
       {
         "name": "basic",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "standard_with_ads",
@@ -6724,12 +6724,12 @@
       {
         "name": "standard",
         "price": 12.99,
-        "price_usd": 15.14
+        "price_usd": 14.78
       },
       {
         "name": "premium",
         "price": 17.99,
-        "price_usd": 20.97
+        "price_usd": 20.47
       }
     ]
   },
@@ -6862,7 +6862,7 @@
       {
         "name": "basic",
         "price": 12.99,
-        "price_usd": 15.14
+        "price_usd": 14.78
       },
       {
         "name": "standard_with_ads",
@@ -6872,12 +6872,12 @@
       {
         "name": "standard",
         "price": 15.99,
-        "price_usd": 18.64
+        "price_usd": 18.19
       },
       {
         "name": "premium",
         "price": 20.99,
-        "price_usd": 24.46
+        "price_usd": 23.88
       }
     ]
   },
@@ -6899,7 +6899,7 @@
       {
         "name": "basic",
         "price": 5.99,
-        "price_usd": 6.98
+        "price_usd": 6.82
       },
       {
         "name": "standard_with_ads",
@@ -6909,12 +6909,12 @@
       {
         "name": "standard",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       },
       {
         "name": "premium",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       }
     ]
   },
@@ -6936,7 +6936,7 @@
       {
         "name": "basic",
         "price": 5.99,
-        "price_usd": 6.98
+        "price_usd": 6.82
       },
       {
         "name": "standard_with_ads",
@@ -6946,12 +6946,12 @@
       {
         "name": "standard",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "premium",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       }
     ]
   },
@@ -7158,7 +7158,7 @@
       {
         "name": "basic",
         "price": 129.0,
-        "price_usd": 13.54
+        "price_usd": 12.98
       },
       {
         "name": "standard_with_ads",
@@ -7168,12 +7168,12 @@
       {
         "name": "standard",
         "price": 169.0,
-        "price_usd": 17.74
+        "price_usd": 17.01
       },
       {
         "name": "premium",
         "price": 219.0,
-        "price_usd": 22.99
+        "price_usd": 22.04
       }
     ]
   },
@@ -7195,7 +7195,7 @@
       {
         "name": "basic",
         "price": 15.98,
-        "price_usd": 12.57
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -7205,12 +7205,12 @@
       {
         "name": "standard",
         "price": 22.98,
-        "price_usd": 18.07
+        "price_usd": 17.97
       },
       {
         "name": "premium",
         "price": 29.98,
-        "price_usd": 23.58
+        "price_usd": 23.45
       }
     ]
   },
@@ -7269,7 +7269,7 @@
       {
         "name": "basic",
         "price": 5.99,
-        "price_usd": 6.98
+        "price_usd": 6.82
       },
       {
         "name": "standard_with_ads",
@@ -7279,12 +7279,12 @@
       {
         "name": "standard",
         "price": 8.99,
-        "price_usd": 10.48
+        "price_usd": 10.23
       },
       {
         "name": "premium",
         "price": 10.99,
-        "price_usd": 12.81
+        "price_usd": 12.5
       }
     ]
   },
@@ -7306,7 +7306,7 @@
       {
         "name": "basic",
         "price": 119.0,
-        "price_usd": 12.73
+        "price_usd": 12.5
       },
       {
         "name": "standard_with_ads",
@@ -7316,12 +7316,12 @@
       {
         "name": "standard",
         "price": 149.0,
-        "price_usd": 15.94
+        "price_usd": 15.65
       },
       {
         "name": "premium",
         "price": 209.0,
-        "price_usd": 22.36
+        "price_usd": 21.95
       }
     ]
   },
@@ -7343,7 +7343,7 @@
       {
         "name": "basic",
         "price": 9.49,
-        "price_usd": 11.06
+        "price_usd": 10.8
       },
       {
         "name": "standard_with_ads",
@@ -7353,12 +7353,12 @@
       {
         "name": "standard",
         "price": 11.49,
-        "price_usd": 13.39
+        "price_usd": 13.07
       },
       {
         "name": "premium",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       }
     ]
   },
@@ -7422,17 +7422,17 @@
       {
         "name": "standard_with_ads",
         "price": 6.99,
-        "price_usd": 8.15
+        "price_usd": 7.95
       },
       {
         "name": "standard",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       },
       {
         "name": "premium",
         "price": 19.99,
-        "price_usd": 23.3
+        "price_usd": 22.74
       }
     ]
   },
@@ -7829,17 +7829,17 @@
       {
         "name": "standard_with_ads",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -7888,7 +7888,7 @@
       {
         "name": "mobile",
         "price": 99.0,
-        "price_usd": 3.02
+        "price_usd": 2.96
       },
       {
         "name": "basic_with_ads",
@@ -7898,7 +7898,7 @@
       {
         "name": "basic",
         "price": 169.0,
-        "price_usd": 5.15
+        "price_usd": 5.05
       },
       {
         "name": "standard_with_ads",
@@ -7908,12 +7908,12 @@
       {
         "name": "standard",
         "price": 349.0,
-        "price_usd": 10.64
+        "price_usd": 10.43
       },
       {
         "name": "premium",
         "price": 419.0,
-        "price_usd": 12.78
+        "price_usd": 12.53
       }
     ]
   },
@@ -7935,7 +7935,7 @@
       {
         "name": "basic",
         "price": 9.39,
-        "price_usd": 10.94
+        "price_usd": 10.68
       },
       {
         "name": "standard_with_ads",
@@ -7945,12 +7945,12 @@
       {
         "name": "standard",
         "price": 11.79,
-        "price_usd": 13.74
+        "price_usd": 13.41
       },
       {
         "name": "premium",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       }
     ]
   },
@@ -7972,7 +7972,7 @@
       {
         "name": "basic",
         "price": 17.99,
-        "price_usd": 10.7
+        "price_usd": 10.17
       },
       {
         "name": "standard_with_ads",
@@ -7982,12 +7982,12 @@
       {
         "name": "standard",
         "price": 25.99,
-        "price_usd": 15.46
+        "price_usd": 14.69
       },
       {
         "name": "premium",
         "price": 33.99,
-        "price_usd": 20.22
+        "price_usd": 19.21
       }
     ]
   },
@@ -8046,7 +8046,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -8056,12 +8056,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -8157,7 +8157,7 @@
       {
         "name": "basic",
         "price": 189.99,
-        "price_usd": 3.95
+        "price_usd": 3.88
       },
       {
         "name": "standard_with_ads",
@@ -8167,12 +8167,12 @@
       {
         "name": "standard",
         "price": 289.99,
-        "price_usd": 6.03
+        "price_usd": 5.92
       },
       {
         "name": "premium",
         "price": 379.99,
-        "price_usd": 7.9
+        "price_usd": 7.76
       }
     ]
   },
@@ -8268,7 +8268,7 @@
       {
         "name": "basic",
         "price": 290.0,
-        "price_usd": 9.1
+        "price_usd": 9.11
       },
       {
         "name": "standard_with_ads",
@@ -8278,12 +8278,12 @@
       {
         "name": "standard",
         "price": 380.0,
-        "price_usd": 11.93
+        "price_usd": 11.94
       },
       {
         "name": "premium",
         "price": 460.0,
-        "price_usd": 14.44
+        "price_usd": 14.45
       }
     ]
   },
@@ -8342,7 +8342,7 @@
       {
         "name": "basic",
         "price": 4.99,
-        "price_usd": 5.82
+        "price_usd": 5.68
       },
       {
         "name": "standard_with_ads",
@@ -8352,12 +8352,12 @@
       {
         "name": "standard",
         "price": 7.49,
-        "price_usd": 8.73
+        "price_usd": 8.52
       },
       {
         "name": "premium",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       }
     ]
   },
@@ -8527,7 +8527,7 @@
       {
         "name": "basic",
         "price": 7.99,
-        "price_usd": 9.31
+        "price_usd": 9.09
       },
       {
         "name": "standard_with_ads",
@@ -8537,12 +8537,12 @@
       {
         "name": "standard",
         "price": 9.99,
-        "price_usd": 11.64
+        "price_usd": 11.37
       },
       {
         "name": "premium",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       }
     ]
   },
@@ -8569,17 +8569,17 @@
       {
         "name": "standard_with_ads",
         "price": 6.99,
-        "price_usd": 8.15
+        "price_usd": 7.95
       },
       {
         "name": "standard",
         "price": 13.99,
-        "price_usd": 16.31
+        "price_usd": 15.92
       },
       {
         "name": "premium",
         "price": 19.99,
-        "price_usd": 23.3
+        "price_usd": 22.74
       }
     ]
   },
@@ -8739,7 +8739,7 @@
       {
         "name": "mobile",
         "price": 74000.0,
-        "price_usd": 2.83
+        "price_usd": 2.85
       },
       {
         "name": "basic_with_ads",
@@ -8749,7 +8749,7 @@
       {
         "name": "basic",
         "price": 114000.0,
-        "price_usd": 4.37
+        "price_usd": 4.39
       },
       {
         "name": "standard_with_ads",
@@ -8759,12 +8759,12 @@
       {
         "name": "standard",
         "price": 231000.0,
-        "price_usd": 8.85
+        "price_usd": 8.89
       },
       {
         "name": "premium",
         "price": 273000.0,
-        "price_usd": 10.46
+        "price_usd": 10.51
       }
     ]
   },
@@ -8934,7 +8934,7 @@
       {
         "name": "basic",
         "price": 11.99,
-        "price_usd": 13.97
+        "price_usd": 13.64
       },
       {
         "name": "standard_with_ads",
@@ -8944,12 +8944,12 @@
       {
         "name": "standard",
         "price": 14.99,
-        "price_usd": 17.47
+        "price_usd": 17.06
       },
       {
         "name": "premium",
         "price": 21.99,
-        "price_usd": 25.63
+        "price_usd": 25.02
       }
     ]
   },
@@ -8961,7 +8961,7 @@
       {
         "name": "mobile",
         "price": 59.0,
-        "price_usd": 3.7
+        "price_usd": 3.61
       },
       {
         "name": "basic_with_ads",
@@ -8971,7 +8971,7 @@
       {
         "name": "basic",
         "price": 99.0,
-        "price_usd": 6.21
+        "price_usd": 6.06
       },
       {
         "name": "standard_with_ads",
@@ -8981,12 +8981,12 @@
       {
         "name": "standard",
         "price": 179.0,
-        "price_usd": 11.22
+        "price_usd": 10.95
       },
       {
         "name": "premium",
         "price": 229.0,
-        "price_usd": 14.36
+        "price_usd": 14.01
       }
     ]
   },
